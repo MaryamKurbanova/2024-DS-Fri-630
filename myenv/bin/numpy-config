@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/Users/maryamkurbanova/2024-DS-Fri-630/myenv/bin/python3.12
+=======
+#!/Users/maryamkurbanova/2024-DS-Fri-630/Week-02-DS-Overview-and-Data/myenv/bin/python3.12
+>>>>>>> d2562a8 (week2)
 # -*- coding: utf-8 -*-
 import re
 import sys
